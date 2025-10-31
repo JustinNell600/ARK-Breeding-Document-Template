@@ -5,7 +5,7 @@
 </div>
 
 # [Ark Survival Evolved](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
-"Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills."
+"Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!"
 
 
 ## About the game
