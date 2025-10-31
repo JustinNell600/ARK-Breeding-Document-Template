@@ -9,21 +9,12 @@
 
 
 ## About the game
-Program in an original language similar to Python to operate agricultural drones and automate farms.
-Playing this game will improve problem-solving skills and coding abilities through programming.
+As a man or woman, alone with others you have to survive and thrive through not only each other but over 100+ tamable prehistoric and/or custom mythical creatures where you explore, fight and conquer together all to uncover this wild and wonderful lands sectres and hidden treasures
 
-# UAU Explanation
-UAU or otherwise Known as Ulitmate Auto Upgrader, is a mixture of scripts with a 'brain' that automatically farms items needed for the chosen upgrade. UAU is also capable of farming dependancy items such as Pumpkins requiring carrots to plant and carrots requiring Wood and Hay to plant
+# Breeding Doc Explanation
+I almost always 100% games I enjoy, although ARK doesn't technically have a 100% besides steam achievements and maybe fighting all the bosses the game has to offer this doesn't touch every mecahnic that the game has to over, especially the highly important breeding mechanic
 
-## Disclaimer
-I wrote this script from about mid game of my first save to the Top Hat
-I also do not Own the following code
-<ul><li>V1.0.0 - Cactus.py</li>
-<li>V.1.5.2 - Cactus.py</li>
-<li>V.2.0.0 - Cactus.py, Maze.py</li>
-<li>V.2.1.0 - Cactus.py, Maze.py</li>
-<li>V.3.0.1 - Cactus.py, Maze.py</li>
-</ul>
+I will use the breeding mechanic to not just breed every animal once but, to those unfimiliar with ARK's breeding mecahnics, ARK has a feature where every baby born from breeding has a chance to "mutate" which increases a random stat point, but it also plots a random color out of ARKs 100+ colors on a random color region. I will make it my goal to breed all the dinos until each dino has a mutated color on each of it's color regions 
 
-I am not a good coder whatsover, please do not think my code is perfect
+This Document is a template for anyone else who cares to join me in this challenge to mark off which dinos are completed
 
